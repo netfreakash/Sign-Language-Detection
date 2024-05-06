@@ -51,3 +51,13 @@ To execute webcam.py in PyCharm, you can follow these steps:
 * Run the Script: Run your Python script in PyCharm. Make sure you have a webcam connected to your system to capture the feed.
 * Monitor Output: Monitor the output window where the webcam feed is displayed. You should see the predictions made by the model overlaid on the webcam feed.
 * Close the Application: Close the application by pressing the 'q' key or by closing the output window.
+
+## Features
+* Installs necessary packages.
+* Downloads and organizes ASL letters dataset.
+* Configures YOLO NAS model for training.
+* Trains model, saves checkpoints.
+* Evaluates best model on test dataset.
+* Performs inference on images and videos.
+* Configures environment for GPU usage.
+
