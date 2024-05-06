@@ -12,9 +12,9 @@ We wanted to make it easy for 70 million deaf people across the world to be inde
 
 
 ## Technology and Tools
-*Python
-*Tensorflow
-*OpenCV
-*Numpy
+* Python
+* Tensorflow
+* OpenCV
+* Numpy
 
 ##
