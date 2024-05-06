@@ -7,7 +7,7 @@ We wanted to make it easy for 70 million deaf people across the world to be inde
 
 ## Screenshots
 
-![Example screenshot](./image/Screenshot 2024-05-06 131208.png)
+![Example screenshot](./image/Screenshot%202024-05-06%20131208.png)
 
 
 
