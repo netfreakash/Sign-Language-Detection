@@ -61,3 +61,7 @@ To execute webcam.py in PyCharm, you can follow these steps:
 * Performs inference on images and videos.
 * Configures environment for GPU usage.
 
+## Support
+
+If you encounter any issues or require assistance, please feel free to open an issue on the [GitHub repository](https://github.com/netfreakash/Sign-Language-Detection/issues).
+
